@@ -1,0 +1,409 @@
+State,Year,Mortality
+Alabama,1980,516.87
+Alaska,1980,436.87
+Arizona,1980,413.70
+Arkansas,1980,520.61
+California,1980,478.25
+Colorado,1980,401.63
+Connecticut,1980,470.72
+Delaware,1980,533.37
+District of Columbia,1980,522.75
+Florida,1980,448.93
+Georgia,1980,540.61
+Hawaii,1980,360.23
+Idaho,1980,418.32
+Illinois,1980,544.55
+Indiana,1980,525.12
+Iowa,1980,457.67
+Kansas,1980,448.91
+Kentucky,1980,536.01
+Louisiana,1980,560.38
+Maine,1980,473.97
+Maryland,1980,503.87
+Massachusetts,1980,471.96
+Michigan,1980,545.49
+Minnesota,1980,423.86
+Mississippi,1980,572.81
+Missouri,1980,515.03
+Montana,1980,424.79
+Nebraska,1980,460.42
+Nevada,1980,502.48
+New Hampshire,1980,466.18
+New Jersey,1980,547.33
+New Mexico,1980,377.96
+New York,1980,571.46
+North Carolina,1980,527.50
+North Dakota,1980,438.17
+Ohio,1980,541.71
+Oklahoma,1980,503.68
+Oregon,1980,436.77
+Pennsylvania,1980,555.80
+Rhode Island,1980,488.19
+South Carolina,1980,556.12
+South Dakota,1980,461.57
+Tennessee,1980,531.74
+Texas,1980,490.07
+Utah,1980,400.05
+Vermont,1980,472.06
+Virginia,1980,518.27
+Washington,1980,427.49
+West Virginia,1980,561.27
+Wisconsin,1980,473.05
+Wyoming,1980,421.43
+Alabama,1985,485.17
+Alaska,1985,383.95
+Arizona,1985,373.15
+Arkansas,1985,489.37
+California,1985,443.79
+Colorado,1985,371.32
+Connecticut,1985,430.94
+Delaware,1985,494.29
+District of Columbia,1985,487.71
+Florida,1985,418.11
+Georgia,1985,498.80
+Hawaii,1985,336.95
+Idaho,1985,390.66
+Illinois,1985,497.82
+Indiana,1985,485.25
+Iowa,1985,427.64
+Kansas,1985,420.03
+Kentucky,1985,499.51
+Louisiana,1985,518.12
+Maine,1985,440.06
+Maryland,1985,467.33
+Massachusetts,1985,434.12
+Michigan,1985,517.68
+Minnesota,1985,389.97
+Mississippi,1985,539.90
+Missouri,1985,475.16
+Montana,1985,389.60
+Nebraska,1985,430.45
+Nevada,1985,473.02
+New Hampshire,1985,431.47
+New Jersey,1985,498.53
+New Mexico,1985,354.87
+New York,1985,529.70
+North Carolina,1985,483.39
+North Dakota,1985,403.29
+Ohio,1985,496.56
+Oklahoma,1985,479.19
+Oregon,1985,410.87
+Pennsylvania,1985,502.37
+Rhode Island,1985,452.34
+South Carolina,1985,507.44
+South Dakota,1985,426.51
+Tennessee,1985,498.17
+Texas,1985,455.26
+Utah,1985,373.51
+Vermont,1985,432.40
+Virginia,1985,470.87
+Washington,1985,395.97
+West Virginia,1985,520.58
+Wisconsin,1985,434.84
+Wyoming,1985,391.37
+Alabama,1990,436.61
+Alaska,1990,336.37
+Arizona,1990,338.85
+Arkansas,1990,444.04
+California,1990,397.68
+Colorado,1990,331.71
+Connecticut,1990,364.74
+Delaware,1990,421.76
+District of Columbia,1990,449.72
+Florida,1990,366.53
+Georgia,1990,436.80
+Hawaii,1990,306.53
+Idaho,1990,344.79
+Illinois,1990,434.51
+Indiana,1990,430.38
+Iowa,1990,379.21
+Kansas,1990,375.83
+Kentucky,1990,443.46
+Louisiana,1990,463.34
+Maine,1990,373.96
+Maryland,1990,408.24
+Massachusetts,1990,368.11
+Michigan,1990,448.65
+Minnesota,1990,333.95
+Mississippi,1990,486.97
+Missouri,1990,424.76
+Montana,1990,340.02
+Nebraska,1990,374.16
+Nevada,1990,410.96
+New Hampshire,1990,370.30
+New Jersey,1990,423.84
+New Mexico,1990,315.10
+New York,1990,465.92
+North Carolina,1990,422.80
+North Dakota,1990,356.52
+Ohio,1990,432.05
+Oklahoma,1990,444.64
+Oregon,1990,352.71
+Pennsylvania,1990,431.14
+Rhode Island,1990,392.82
+South Carolina,1990,442.44
+South Dakota,1990,374.30
+Tennessee,1990,448.87
+Texas,1990,407.55
+Utah,1990,323.81
+Vermont,1990,369.27
+Virginia,1990,406.80
+Washington,1990,344.39
+West Virginia,1990,463.32
+Wisconsin,1990,380.51
+Wyoming,1990,346.84
+Alabama,1995,414.45
+Alaska,1995,315.33
+Arizona,1995,312.23
+Arkansas,1995,431.32
+California,1995,361.00
+Colorado,1995,306.55
+Connecticut,1995,344.06
+Delaware,1995,385.48
+District of Columbia,1995,424.91
+Florida,1995,346.92
+Georgia,1995,411.43
+Hawaii,1995,292.08
+Idaho,1995,325.57
+Illinois,1995,413.35
+Indiana,1995,406.85
+Iowa,1995,359.96
+Kansas,1995,360.23
+Kentucky,1995,420.50
+Louisiana,1995,437.80
+Maine,1995,346.28
+Maryland,1995,378.08
+Massachusetts,1995,335.33
+Michigan,1995,419.96
+Minnesota,1995,307.42
+Mississippi,1995,475.26
+Missouri,1995,411.80
+Montana,1995,320.97
+Nebraska,1995,353.33
+Nevada,1995,390.26
+New Hampshire,1995,345.78
+New Jersey,1995,389.80
+New Mexico,1995,304.54
+New York,1995,434.74
+North Carolina,1995,394.03
+North Dakota,1995,337.63
+Ohio,1995,408.36
+Oklahoma,1995,436.29
+Oregon,1995,328.13
+Pennsylvania,1995,402.81
+Rhode Island,1995,360.42
+South Carolina,1995,415.63
+South Dakota,1995,349.91
+Tennessee,1995,431.40
+Texas,1995,383.86
+Utah,1995,305.50
+Vermont,1995,345.81
+Virginia,1995,379.11
+Washington,1995,319.82
+West Virginia,1995,437.03
+Wisconsin,1995,354.98
+Wyoming,1995,330.71
+Alabama,2000,397.40
+Alaska,2000,287.88
+Arizona,2000,287.18
+Arkansas,2000,408.79
+California,2000,328.56
+Colorado,2000,280.94
+Connecticut,2000,310.31
+Delaware,2000,351.07
+District of Columbia,2000,398.56
+Florida,2000,317.30
+Georgia,2000,380.53
+Hawaii,2000,263.70
+Idaho,2000,304.66
+Illinois,2000,362.49
+Indiana,2000,374.75
+Iowa,2000,330.56
+Kansas,2000,334.92
+Kentucky,2000,397.22
+Louisiana,2000,403.66
+Maine,2000,312.39
+Maryland,2000,351.19
+Massachusetts,2000,300.13
+Michigan,2000,383.60
+Minnesota,2000,270.91
+Mississippi,2000,448.76
+Missouri,2000,382.85
+Montana,2000,296.82
+Nebraska,2000,317.75
+Nevada,2000,349.13
+New Hampshire,2000,313.00
+New Jersey,2000,351.89
+New Mexico,2000,277.44
+New York,2000,374.16
+North Carolina,2000,362.66
+North Dakota,2000,312.52
+Ohio,2000,371.78
+Oklahoma,2000,420.37
+Oregon,2000,300.33
+Pennsylvania,2000,364.20
+Rhode Island,2000,326.44
+South Carolina,2000,376.18
+South Dakota,2000,320.52
+Tennessee,2000,408.07
+Texas,2000,358.87
+Utah,2000,287.36
+Vermont,2000,308.75
+Virginia,2000,343.14
+Washington,2000,299.34
+West Virginia,2000,404.91
+Wisconsin,2000,325.37
+Wyoming,2000,307.21
+Alabama,2005,352.09
+Alaska,2005,244.18
+Arizona,2005,253.25
+Arkansas,2005,361.81
+California,2005,276.98
+Colorado,2005,242.88
+Connecticut,2005,255.33
+Delaware,2005,304.01
+District of Columbia,2005,351.94
+Florida,2005,271.51
+Georgia,2005,326.03
+Hawaii,2005,226.97
+Idaho,2005,264.78
+Illinois,2005,307.86
+Indiana,2005,320.83
+Iowa,2005,285.92
+Kansas,2005,289.17
+Kentucky,2005,342.75
+Louisiana,2005,353.74
+Maine,2005,263.23
+Maryland,2005,298.56
+Massachusetts,2005,252.18
+Michigan,2005,328.01
+Minnesota,2005,227.50
+Mississippi,2005,394.25
+Missouri,2005,329.02
+Montana,2005,259.28
+Nebraska,2005,268.83
+Nevada,2005,314.43
+New Hampshire,2005,262.50
+New Jersey,2005,292.86
+New Mexico,2005,247.26
+New York,2005,318.79
+North Carolina,2005,303.73
+North Dakota,2005,269.58
+Ohio,2005,318.34
+Oklahoma,2005,372.48
+Oregon,2005,256.84
+Pennsylvania,2005,312.35
+Rhode Island,2005,286.55
+South Carolina,2005,315.71
+South Dakota,2005,274.57
+Tennessee,2005,351.91
+Texas,2005,303.41
+Utah,2005,250.67
+Vermont,2005,257.37
+Virginia,2005,288.62
+Washington,2005,256.03
+West Virginia,2005,348.30
+Wisconsin,2005,273.07
+Wyoming,2005,268.15
+Alabama,2010,310.55
+Alaska,2010,215.68
+Arizona,2010,212.01
+Arkansas,2010,322.61
+California,2010,234.19
+Colorado,2010,205.59
+Connecticut,2010,220.62
+Delaware,2010,253.98
+District of Columbia,2010,292.39
+Florida,2010,234.72
+Georgia,2010,283.53
+Hawaii,2010,199.47
+Idaho,2010,231.93
+Illinois,2010,262.43
+Indiana,2010,280.94
+Iowa,2010,251.03
+Kansas,2010,255.98
+Kentucky,2010,299.19
+Louisiana,2010,312.02
+Maine,2010,223.23
+Maryland,2010,258.59
+Massachusetts,2010,216.34
+Michigan,2010,285.38
+Minnesota,2010,193.32
+Mississippi,2010,347.03
+Missouri,2010,291.21
+Montana,2010,225.59
+Nebraska,2010,231.80
+Nevada,2010,261.57
+New Hampshire,2010,222.31
+New Jersey,2010,255.19
+New Mexico,2010,220.51
+New York,2010,269.44
+North Carolina,2010,260.31
+North Dakota,2010,235.54
+Ohio,2010,275.21
+Oklahoma,2010,331.00
+Oregon,2010,219.11
+Pennsylvania,2010,267.41
+Rhode Island,2010,241.13
+South Carolina,2010,271.31
+South Dakota,2010,236.23
+Tennessee,2010,308.92
+Texas,2010,264.92
+Utah,2010,225.28
+Vermont,2010,220.60
+Virginia,2010,248.18
+Washington,2010,225.08
+West Virginia,2010,302.95
+Wisconsin,2010,237.28
+Wyoming,2010,237.15
+Alabama,2014,310.59
+Alaska,2014,217.01
+Arizona,2014,209.33
+Arkansas,2014,324.15
+California,2014,221.94
+Colorado,2014,209.52
+Connecticut,2014,218.57
+Delaware,2014,250.57
+District of Columbia,2014,295.67
+Florida,2014,231.20
+Georgia,2014,275.49
+Hawaii,2014,205.85
+Idaho,2014,231.48
+Illinois,2014,258.33
+Indiana,2014,278.25
+Iowa,2014,250.21
+Kansas,2014,257.42
+Kentucky,2014,297.78
+Louisiana,2014,309.31
+Maine,2014,217.46
+Maryland,2014,253.26
+Massachusetts,2014,212.08
+Michigan,2014,288.82
+Minnesota,2014,188.18
+Mississippi,2014,347.92
+Missouri,2014,290.00
+Montana,2014,226.92
+Nebraska,2014,227.75
+Nevada,2014,258.28
+New Hampshire,2014,220.47
+New Jersey,2014,248.78
+New Mexico,2014,221.15
+New York,2014,258.45
+North Carolina,2014,255.06
+North Dakota,2014,233.41
+Ohio,2014,275.80
+Oklahoma,2014,333.44
+Oregon,2014,216.79
+Pennsylvania,2014,266.37
+Rhode Island,2014,239.33
+South Carolina,2014,265.14
+South Dakota,2014,232.64
+Tennessee,2014,307.95
+Texas,2014,261.10
+Utah,2014,228.50
+Vermont,2014,217.40
+Virginia,2014,240.84
+Washington,2014,220.14
+West Virginia,2014,301.86
+Wisconsin,2014,233.06
+Wyoming,2014,238.35
