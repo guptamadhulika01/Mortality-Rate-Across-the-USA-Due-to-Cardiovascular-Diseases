@@ -25,7 +25,6 @@ Analysis:
 We created choropleth maps to showcase cardiovascular mortality in counties and states across the years. The jupyter notebook Analysis.ipynb showcases the technique to draw the maps. Since these maps can't be saved using savefig(), they need to be called separately through a user input denoting the year that the user wants to see the data for.
 
 We also applied correlation for finding relationships between Obesity and Education. These can be found in the jupyter notebook Analysis2.ipynb
-
 Next, we did a prediction model using linear regression for 3 states - CA (state of residence), MI, the state with highest mortality rate, while MN the one with the lowest mortality rate. These can be found in the jupyter notebook Analysis3.ipynb 
 
 Finally we put together the presentation with our findings. Link to the presentation is :
