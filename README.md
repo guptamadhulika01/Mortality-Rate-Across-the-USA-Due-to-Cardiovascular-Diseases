@@ -14,6 +14,7 @@ Once we decided the scope, we wanted to ask the following questions:
 Identify Data Sources
 
 Global Health Data Exchange provided the cardiovascular mortality data, annually and quinquennially, at county, state and national level.
+
 Stateofobesity.org provided the obesity data, while the US Department of Agriculture Economic Research Wing provided the data for the education dataset
 
 Data Cleansing:
