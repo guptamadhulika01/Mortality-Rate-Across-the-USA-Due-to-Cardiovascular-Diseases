@@ -1,7 +1,7 @@
 Project Description:
 
 Our project aims to uncover the patterns in mortality rate in the United States due to cardiovascular diseases; trends in mortality rate across time (from 1980 to 2014) and across geography (county and state). We also intend to check, through advanced statistical methods, the kind of correlation factors like obesity and higher education have on cardiovascular mortality rate.
-Mortality Rate is defined as deaths per 100,000 people as published at Global Health Data Exchange (http://ghdx.healthdata.org/record/ihme-data/united-states-mortality-rates-county-1980-2014) 
+Mortality Rate is defined as deaths per 100,000 people as published at Global Health Data Exchange. (http://ghdx.healthdata.org/record/ihme-data/united-states-mortality-rates-county-1980-2014) 
 
 Scope: 
 
